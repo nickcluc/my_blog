@@ -38,3 +38,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'ckeditor', '~> 4.0.6'
+gem 'paperclip'
